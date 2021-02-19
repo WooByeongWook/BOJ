@@ -1,5 +1,3 @@
-package Practice_baekjoon;
-
 import java.util.*;
 
 public class b2231 {

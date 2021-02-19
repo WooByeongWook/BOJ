@@ -1,5 +1,3 @@
-package Practice_baekjoon;
-
 import java.util.Arrays;
 import java.util.Scanner;
 

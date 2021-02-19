@@ -1,5 +1,3 @@
-package Practice_baekjoon;
-
 import java.io.IOException;
 import java.util.Scanner;
 

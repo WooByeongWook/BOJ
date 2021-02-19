@@ -1,5 +1,3 @@
-package Practice_baekjoon;
-
 import java.util.Scanner;
 
 public class b10871 {

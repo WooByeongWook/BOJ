@@ -1,7 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44b60177-3385-4813-b645-b052deab8267" name="Default Changelist" comment="" />
+    <list default="true" id="44b60177-3385-4813-b645-b052deab8267" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b1002.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b1002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b10039.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b10039.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b1011.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b1011.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b10171.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b10171.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b1018.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b1018.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b10250.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b10250.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b1065.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b1065.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b10757.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b10757.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b10809.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b10809.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b10814.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b10814.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b10818.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b10818.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b1085.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b1085.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b10870.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b10870.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b10871.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b10871.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b10872.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b10872.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b10950.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b10950.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b10951.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b10951.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b10952.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b10952.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b10989.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b10989.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b10996.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b10996.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b11021.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b11021.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b11022.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b11022.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b1110.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b1110.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b1152.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b1152.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b1157.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b1157.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b11650.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b11650.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b11651.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b11651.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b11653.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b11653.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b11654.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b11654.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b11729.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b11729.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b1181.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b1181.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b1193.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b1193.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b11944.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b11944.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b1316.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b1316.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b1330.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b1330.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b1427.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b1427.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b1436.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b1436.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b14681.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b14681.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b1546.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b1546.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b15552.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b15552.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b15596.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b15596.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b15649.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b15649.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b15650.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b15650.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b15651.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b15651.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b15652.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b15652.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b1712.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b1712.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b1929.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b1929.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b1978.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b1978.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2108.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2108.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2231.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2231.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2292.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2292.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2446.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2446.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2447.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2447.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2523.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2523.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2562.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2562.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2577.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2577.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2580.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2580.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2581.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2581.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2588.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2588.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2675.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2675.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2750.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2750.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2751.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2751.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2753.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2753.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2775.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2775.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2798.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2798.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2869.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2869.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2884.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2884.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2908.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2908.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2920.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2920.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b2941.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b2941.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b3009.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b3009.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b3052.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b3052.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b3053.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b3053.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b4153.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b4153.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b4344.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b4344.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b4673.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b4673.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b4948.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b4948.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b5543.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b5543.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b5622.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b5622.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b7568.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b7568.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b8958.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b8958.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b9020.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b9020.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study_BOJ/src/b9663.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study_BOJ/src/b9663.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +104,13 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -125,7 +217,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613722653709</updated>
       <workItem from="1613722654794" duration="65000" />
-      <workItem from="1613722762769" duration="53000" />
+      <workItem from="1613722762769" duration="684000" />
     </task>
     <servers />
   </component>
